@@ -4,4 +4,5 @@ if x == 1:
 
 	# Comment
 	print "x is 1."
+	print "x is still 1."
 
